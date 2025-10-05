@@ -1,4 +1,4 @@
-# GBC
+# gbc
 GBC
 
 ## Links
